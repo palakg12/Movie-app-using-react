@@ -1,3 +1,10 @@
+This Movie App is created using React and it fetches movies using API .
+
+
+https://github.com/palakg12/Movie-app-using-react/assets/115335427/63358b02-69f9-4244-930a-10ea37a247a1
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
